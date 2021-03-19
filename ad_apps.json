@@ -19,9 +19,9 @@
     "package": "com.pipong.vkdownloader",
     "name": "Download VkVideo Master"
   },
-      {
-    "image": "https://play-lh.googleusercontent.com/na7V7BvOtaG2XEyfXgCII1K7pxzsD8Hn85FDiL8EUia40abDbEe11vBSlLaDUlbqNl4=s180-rw",
-    "package": "com.tamnv.videodownloader",
-    "name": "Social Video Downloader Best 2020 - One Click"
-  },
+    //  {
+   // "image": "https://play-lh.googleusercontent.com/na7V7BvOtaG2XEyfXgCII1K7pxzsD8Hn85FDiL8EUia40abDbEe11vBSlLaDUlbqNl4=s180-rw",
+   // "package": "com.tamnv.videodownloader",
+   // "name": "Social Video Downloader Best 2020 - One Click"
+  //},
 ]

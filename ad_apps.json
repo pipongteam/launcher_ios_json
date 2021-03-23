@@ -14,14 +14,14 @@
     "package": "com.pipongteam.notificationlockscreen",
     "name": "Notifications & Lock Screen iOS 15"
   },
+  {
+    "image": "https://play-lh.googleusercontent.com/LEV790vwTYBC62-mDnNPsNzeBR_7kkp65wvKeM6bw6kKsFirg2eoEqeOZ1ZmZNonkBOF=s180-rw",
+    "package": "com.pipongteam.clockios",
+    "name": "iOS Clock 15"
+  },
     {
     "image": "https://play-lh.googleusercontent.com/S0dChABnXRlFnp74ZLZ1Nmp5rBAv9pkka5yLjkV-J7PFXVuRqaTjh4CiT0uW1XhzPIY=s180-rw",
     "package": "com.pipong.vkdownloader",
     "name": "Download VkVideo Master"
   },
-    //  {
-   // "image": "https://play-lh.googleusercontent.com/na7V7BvOtaG2XEyfXgCII1K7pxzsD8Hn85FDiL8EUia40abDbEe11vBSlLaDUlbqNl4=s180-rw",
-   // "package": "com.tamnv.videodownloader",
-   // "name": "Social Video Downloader Best 2020 - One Click"
-  //},
 ]

@@ -9,6 +9,21 @@
     "package": "com.pipongteam.centrolcenterios",
     "name": "Control Center IOS 15"
   },
+  {
+    "image": "https://play-lh.googleusercontent.com/67yqymIjbSy15CxmgI7FUCTEpIRNonPq38d6J3D1B3CfdfQ-Vy-5Lg3PEvkmCu9Gme0=s180-rw",
+    "package": "com.pipongteam.assistivetouch",
+    "name": "iOS 15 Assistive Touch Pro 2021"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/1zhHJs1NUut7dfNF_cy4e-U9qV6sZOin9UoTtgOge7Eoe3w9Xvk1ynGu3SPF4Fm2_bj3=s180-rw",
+    "package": "com.pipongteam.calculator",
+    "name": "iOS Calculator 15"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NFenF3R1fKvLo0HtNXYFl8O6WohJUc3bXC7YsOZsWX3aRxMJ6LVH4w14NCAlnFkwkbg=s180-rw",
+    "package": "com.pipong.removepixel",
+    "name": "Quick Remove Background - Auto Remove Pixel 2021"
+  },
     {
     "image": "https://play-lh.googleusercontent.com/r4beGw92pnm2bdIPi7l8fYTI_zkX3X8qthW5kyrsK7VkLcq3m_KLpbXOj7V87-nDH2M=s180-rw",
     "package": "com.pipongteam.notificationlockscreen",
@@ -23,6 +38,6 @@
     "image": "https://play-lh.googleusercontent.com/S0dChABnXRlFnp74ZLZ1Nmp5rBAv9pkka5yLjkV-J7PFXVuRqaTjh4CiT0uW1XhzPIY=s180-rw",
     "package": "com.pipong.vkdownloader",
     "name": "Download VkVideo Master"
-  }, 
-  
+  },
+
 ]
